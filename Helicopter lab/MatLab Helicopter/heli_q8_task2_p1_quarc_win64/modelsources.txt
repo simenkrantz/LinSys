@@ -1,1 +1,0 @@
-   heli_q8_task2_p1.c 
